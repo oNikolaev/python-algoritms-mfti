@@ -1,5 +1,6 @@
 # Структурное программирование
-import ezgraphics as gr
+from common import ezgraphics as gr
+
 
 def build_house(window, x, y, width):
     """Функция, которая рисует дом"""
